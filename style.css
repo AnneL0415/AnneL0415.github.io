@@ -1,0 +1,14 @@
+h1{
+    font-family: "Titillium Web", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+    font-family: "Inter", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+
+body{
+    background-color: blueviolet;
+}
